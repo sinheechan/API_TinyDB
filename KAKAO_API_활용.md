@@ -553,6 +553,6 @@ sns.histplot(x=prices, ax=ax)
 
 
 ​    
-![png](output_20_1.png)
+![output_20_1.png](./image.png)
 ​    
 
