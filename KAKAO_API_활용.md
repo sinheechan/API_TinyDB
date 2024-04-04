@@ -553,5 +553,5 @@ sns.histplot(x=prices, ax=ax)
 
 
 
-<img src="./image.png", height="100x", width="100px">​    
+<img src="image/output_20_1.png", height="100x", width="100px">​    
 
