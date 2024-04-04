@@ -551,7 +551,6 @@ sns.histplot(x=prices, ax=ax)
 
 
 
-![ex_output_20_1.png](./img/screenshot.png)
-!<img src="image/output_20_1.png">
+![](image/output_20_1.png)
 !<img src="image/output_20_1.png", height="100x", width="100px">​    
 
