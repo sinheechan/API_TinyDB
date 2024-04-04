@@ -1,10 +1,14 @@
 # KAKAO API
 
-
+<br /><br />
 
 ## 1. 초기 세팅
 
+<br /><br />
 
+- 
+
+- ㅇㅇ
 ```python
 import requests # 외부라이브러리
 from tqdm import tqdm
